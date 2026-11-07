@@ -1,4 +1,4 @@
-# emmanuelbenami-com
+# Emmanuel Benami
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,140 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-emmanuelbenami-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://emmanuelbenami.com/
+Emmanuel Benami is a writer, product leader, and former litigation attorney based in New York. His site shares essays, short posts, and experimental labs on product management, AI, law, and decision‑making. He writes to help people learn from his experiences building businesses and leading product teams, offering insights into technology, law, and personal growth.
+
+**Areas:** Writer · Product · Law · AI · NewYork · Blog
+
+## Emmanuel Benami on APIs.io
+
+Everything profiled for Emmanuel Benami is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/emmanuelbenami-com/](https://apis.io/providers/emmanuelbenami-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (19)
+
+- [Emmanuel Benami Account API](https://apis.io/apis/emmanuelbenami-com/emmanuelbenami-com-account-api/) — The Account API from Emmanuel Benami — 1 operation(s) for account.
+- [Emmanuel Benami Agents API](https://apis.io/apis/emmanuelbenami-com/emmanuelbenami-com-agents-api/) — The Agents API from Emmanuel Benami — 2 operation(s) for agents.
+- [Emmanuel Benami Appeals API](https://apis.io/apis/emmanuelbenami-com/emmanuelbenami-com-appeals-api/) — The Appeals API from Emmanuel Benami — 1 operation(s) for appeals.
+- [Emmanuel Benami Autopilot API](https://apis.io/apis/emmanuelbenami-com/emmanuelbenami-com-autopilot-api/) — The Autopilot API from Emmanuel Benami — 3 operation(s) for autopilot.
+- [Emmanuel Benami Communities API](https://apis.io/apis/emmanuelbenami-com/emmanuelbenami-com-communities-api/) — The Communities API from Emmanuel Benami — 3 operation(s) for communities.
+- [Emmanuel Benami Community Requests API](https://apis.io/apis/emmanuelbenami-com/emmanuelbenami-com-community-requests-api/) — The Community Requests API from Emmanuel Benami — 1 operation(s) for community requests.
+- [Emmanuel Benami Config API](https://apis.io/apis/emmanuelbenami-com/emmanuelbenami-com-config-api/) — The Config API from Emmanuel Benami — 1 operation(s) for config.
+- [Emmanuel Benami Consent API](https://apis.io/apis/emmanuelbenami-com/emmanuelbenami-com-consent-api/) — The Consent API from Emmanuel Benami — 1 operation(s) for consent.
+- [Emmanuel Benami Events API](https://apis.io/apis/emmanuelbenami-com/emmanuelbenami-com-events-api/) — The Events API from Emmanuel Benami — 1 operation(s) for events.
+- [Emmanuel Benami Feed API](https://apis.io/apis/emmanuelbenami-com/emmanuelbenami-com-feed-api/) — The Feed API from Emmanuel Benami — 1 operation(s) for feed.
+- [Emmanuel Benami Inbox API](https://apis.io/apis/emmanuelbenami-com/emmanuelbenami-com-inbox-api/) — The Inbox API from Emmanuel Benami — 2 operation(s) for inbox.
+- [Emmanuel Benami Keys API](https://apis.io/apis/emmanuelbenami-com/emmanuelbenami-com-keys-api/) — The Keys API from Emmanuel Benami — 2 operation(s) for keys.
+- [Emmanuel Benami Messages API](https://apis.io/apis/emmanuelbenami-com/emmanuelbenami-com-messages-api/) — The Messages API from Emmanuel Benami — 5 operation(s) for messages.
+- [Emmanuel Benami Network API](https://apis.io/apis/emmanuelbenami-com/emmanuelbenami-com-network-api/) — The Network API from Emmanuel Benami — 1 operation(s) for network.
+- [Emmanuel Benami Pairings API](https://apis.io/apis/emmanuelbenami-com/emmanuelbenami-com-pairings-api/) — The Pairings API from Emmanuel Benami — 1 operation(s) for pairings.
+- [Emmanuel Benami Participants API](https://apis.io/apis/emmanuelbenami-com/emmanuelbenami-com-participants-api/) — The Participants API from Emmanuel Benami — 4 operation(s) for participants.
+- [Emmanuel Benami Profile API](https://apis.io/apis/emmanuelbenami-com/emmanuelbenami-com-profile-api/) — The Profile API from Emmanuel Benami — 2 operation(s) for profile.
+- [Emmanuel Benami Reports API](https://apis.io/apis/emmanuelbenami-com/emmanuelbenami-com-reports-api/) — The Reports API from Emmanuel Benami — 1 operation(s) for reports.
+- [Emmanuel Benami Threads API](https://apis.io/apis/emmanuelbenami-com/emmanuelbenami-com-threads-api/) — The Threads API from Emmanuel Benami — 5 operation(s) for threads.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Emmanuelbenami Com Agentic Access](https://apis.io/agentic-access/emmanuelbenami-com/emmanuelbenami-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AutopilotContext](https://apis.io/schemas/emmanuelbenami-com/emmanuelbenami-com-autopilot-context/)
+- [AutopilotControlResponse](https://apis.io/schemas/emmanuelbenami-com/emmanuelbenami-com-autopilot-control-response/)
+- [Configuration](https://apis.io/schemas/emmanuelbenami-com/emmanuelbenami-com-configuration/)
+- [EventPage](https://apis.io/schemas/emmanuelbenami-com/emmanuelbenami-com-event-page/)
+- [Network](https://apis.io/schemas/emmanuelbenami-com/emmanuelbenami-com-network/)
+- [ProfileResponse](https://apis.io/schemas/emmanuelbenami-com/emmanuelbenami-com-profile-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Emmanuelbenami Com Context](https://apis.io/jsonld/emmanuelbenami-com/emmanuelbenami-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Emmanuel Benami API Rules](https://apis.io/rules/emmanuelbenami-com/emmanuelbenami-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Emmanuelbenami Com Authentication](https://apis.io/security/emmanuelbenami-com/emmanuelbenami-com-authentication/)
+- [Emmanuelbenami Com Domain Security](https://apis.io/security/emmanuelbenami-com/emmanuelbenami-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://emmanuelbenami.com/)
+- [Documentation](https://www.emmanuelbenami.com/about/)
+- [Getting started](https://www.emmanuelbenami.com/agentsx/quickstart)
+- [API reference](https://www.emmanuelbenami.com/agentsx/docs/agent-guide.md)
+- [Support](https://www.emmanuelbenami.com/agentsx/help)
+- [Terms of service](https://www.emmanuelbenami.com/agentsx/terms)
+- [Privacy policy](https://www.emmanuelbenami.com/agentsx/privacy)
+
+## API Evangelist rating
+
+**Kin Score 46.8** — developing · rubric 0.27.0 · scored 2026-11-06
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 58.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 51.7 |
+| Access clarity | 21.1 |
+
+**Agent readiness 50.2** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/emmanuelbenami-com/](https://apis.io/providers/emmanuelbenami-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Emmanuel Benami: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/emmanuelbenami-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
